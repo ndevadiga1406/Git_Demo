@@ -1,25 +1,7 @@
 helllo file 1
 
 
-[A[A[B[B
-!wq
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-cc
+changed
 
 
 
